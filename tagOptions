@@ -1,0 +1,10 @@
+list tag:
+-git tag
+
+delet tag localy:
+ -git tag -d tagName
+
+remote:
+-git push origin --delete tagName
+-git push origin :refs/tags/tagName
+
