@@ -1,0 +1,14 @@
+Mohamed Ali Hassan
+
+steps:
+-mkdir newProject
+-cd newPrroject
+-git init
+-vim projectFile
+-git add .
+-git commit -m "message"
+on github:
+-url ssh
+-git remote add origin urlssh
+-git branch -M main
+-git push origin main
