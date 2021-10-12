@@ -1,0 +1,4 @@
+-Localy:
+git branch -d branchName
+-Remote:
+git branch :banchName
