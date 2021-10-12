@@ -14,7 +14,7 @@ on github:
 -git push origin main
 
 ---- dev Branch File ---
-steps
+steps:
 -git branch dev
 -git checkout dev
 -vim projectFile
