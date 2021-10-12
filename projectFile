@@ -12,3 +12,12 @@ on github:
 -git remote add origin urlssh
 -git branch -M main
 -git push origin main
+
+---- dev Branch File ---
+steps
+-git branch dev
+-git checkout dev
+-vim projectFile
+-git add .
+-git commit -m "message "
+-git push origin dev
