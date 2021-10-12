@@ -13,11 +13,11 @@ on github:
 -git branch -M main
 -git push origin main
 
----- dev Branch File ---
+---- testBranch File ---
 steps
--git branch dev
--git checkout dev
+-git branch test
+-git checkout test
 -vim projectFile
 -git add .
 -git commit -m "message "
--git push origin dev
+-git push origin test
